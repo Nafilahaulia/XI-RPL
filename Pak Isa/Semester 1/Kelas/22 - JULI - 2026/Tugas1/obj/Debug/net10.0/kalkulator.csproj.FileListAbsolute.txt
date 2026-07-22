@@ -1,0 +1,14 @@
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\bin\Debug\net10.0\kalkulator.exe
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\bin\Debug\net10.0\kalkulator.deps.json
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\bin\Debug\net10.0\kalkulator.runtimeconfig.json
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\bin\Debug\net10.0\kalkulator.dll
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\bin\Debug\net10.0\kalkulator.pdb
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.AssemblyInfoInputs.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.AssemblyInfo.cs
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.dll
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\refint\kalkulator.dll
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.pdb
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\kalkulator.genruntimeconfig.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\22 - JULI - 2026\Tugas1\kalkulator\obj\Debug\net10.0\ref\kalkulator.dll
