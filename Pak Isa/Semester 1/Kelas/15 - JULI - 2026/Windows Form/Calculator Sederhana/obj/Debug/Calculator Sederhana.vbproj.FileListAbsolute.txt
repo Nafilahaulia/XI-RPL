@@ -1,0 +1,12 @@
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.vbproj.AssemblyReference.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Form1.resources
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Resources.resources
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.vbproj.GenerateResource.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.vbproj.CoreCompileInputs.cache
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe.config
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\bin\Debug\Calculator Sederhana.pdb
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\bin\Debug\Calculator Sederhana.xml
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.exe
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.xml
+C:\Filah1\XI-RPL\Pak Isa\Semester 1\Kelas\15 - JULI - 2026\Windows Form\Calculator Sederhana\obj\Debug\Calculator Sederhana.pdb
