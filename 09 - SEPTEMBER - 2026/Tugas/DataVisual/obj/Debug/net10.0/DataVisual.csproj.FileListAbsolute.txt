@@ -1,0 +1,14 @@
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\bin\Debug\net10.0\DataVisual.exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\bin\Debug\net10.0\DataVisual.deps.json
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\bin\Debug\net10.0\DataVisual.runtimeconfig.json
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\bin\Debug\net10.0\DataVisual.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\bin\Debug\net10.0\DataVisual.pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.AssemblyInfoInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.AssemblyInfo.cs
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.csproj.CoreCompileInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\refint\DataVisual.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\DataVisual.genruntimeconfig.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\Tugas\DataVisual\obj\Debug\net10.0\ref\DataVisual.dll

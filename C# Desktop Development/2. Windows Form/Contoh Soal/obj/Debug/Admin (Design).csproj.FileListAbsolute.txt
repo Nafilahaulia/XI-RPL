@@ -1,0 +1,39 @@
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin (Design).csproj.AssemblyReference.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form1Login.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form2Register.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form3Dashboard.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Properties.Resources.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin (Design).csproj.GenerateResource.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin (Design).csproj.CoreCompileInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\bin\Debug\Admin (Design).exe.config
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\bin\Debug\Admin (Design).exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\bin\Debug\Admin (Design).pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin (Design).exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin (Design).pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form4Bandara.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form5Maskapai.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form6JadwalPenerbangan.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form7KodePromo.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Admin (Design)\obj\Debug\Admin__Design_.Form8UbahStatusPenerbangan.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\bin\Debug\Admin (Design).exe.config
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\bin\Debug\Admin (Design).exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\bin\Debug\Admin (Design).pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin (Design).csproj.AssemblyReference.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form1Login.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form2Register.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form3Dashboard.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form4Bandara.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form5Maskapai.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form6JadwalPenerbangan.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form7KodePromo.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form8UbahStatusPenerbangan.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Properties.Resources.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin (Design).csproj.GenerateResource.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin (Design).csproj.CoreCompileInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin (Design).exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin (Design).pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form10ListPenerbangan.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form9CustomerMain.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form11BeliTiket.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.Form12TiketSaya.resources
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\C# Desktop Development\2. Windows Form\Contoh Soal\obj\Debug\Admin__Design_.PenumpangControl.resources

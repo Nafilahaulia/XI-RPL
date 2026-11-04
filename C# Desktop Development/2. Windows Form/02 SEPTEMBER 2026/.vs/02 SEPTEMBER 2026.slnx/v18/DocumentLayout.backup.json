@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\02 SEPTEMBER 2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB4C5B9-2528-4A77-9EC3-9E6FD047F7A1}|02 SEPTEMBER 2026.csproj|c:\\users\\hp 14s-dk0023au\\documents\\kelas xi\\c# desktop development\\2. windows form\\02 september 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB4C5B9-2528-4A77-9EC3-9E6FD047F7A1}|02 SEPTEMBER 2026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\02 SEPTEMBER 2026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\02 SEPTEMBER 2026\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwBYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:24:43.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

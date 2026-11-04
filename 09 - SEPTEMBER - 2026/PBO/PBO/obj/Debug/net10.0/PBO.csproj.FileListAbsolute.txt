@@ -1,0 +1,14 @@
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\bin\Debug\net10.0\PBO.exe
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\bin\Debug\net10.0\PBO.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+C:\Users\hp 14s-dk0023au\Documents\Kelas XI\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll

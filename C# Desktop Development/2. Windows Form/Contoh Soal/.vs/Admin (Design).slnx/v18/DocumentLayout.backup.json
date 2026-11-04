@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|c:\\users\\hp 14s-dk0023au\\documents\\kelas xi\\c# desktop development\\2. windows form\\contoh soal\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form5maskapai.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form5maskapai.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\form7kodepromo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{84A13B3B-31B5-4177-9B93-9F00BD9D1CA6}|Admin (Design).csproj|solutionrelative:form7kodepromo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form10ListPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form10ListPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form10ListPenerbangan.cs [Design]",
+              "RelativeToolTip": "Form10ListPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T06:57:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form11BeliTiket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "Form11BeliTiket.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form11BeliTiket.cs [Design]",
+              "RelativeToolTip": "Form11BeliTiket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:49:32.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9CustomerMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "Form9CustomerMain.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form9CustomerMain.cs [Design]",
+              "RelativeToolTip": "Form9CustomerMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:10:48.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form12TiketSaya.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "Form12TiketSaya.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form12TiketSaya.cs [Design]",
+              "RelativeToolTip": "Form12TiketSaya.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T07:19:36.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PenumpangControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\PenumpangControl.cs",
+              "RelativeDocumentMoniker": "PenumpangControl.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\PenumpangControl.cs [Design]",
+              "RelativeToolTip": "PenumpangControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T07:00:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form10ListPenerbangan.cs",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form10ListPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form10ListPenerbangan.cs",
+              "RelativeToolTip": "Form10ListPenerbangan.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:53:34.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form8UbahStatusPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form8UbahStatusPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form8UbahStatusPenerbangan.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form8UbahStatusPenerbangan.cs [Design]",
+              "RelativeToolTip": "Form8UbahStatusPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:55:03.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form7KodePromo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "Form7KodePromo.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.cs [Design]",
+              "RelativeToolTip": "Form7KodePromo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:39:40.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6JadwalPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form6JadwalPenerbangan.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form6JadwalPenerbangan.cs [Design]",
+              "RelativeToolTip": "Form6JadwalPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:13:17.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "Form3Dashboard.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "Form3Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:04:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5Maskapai.resx",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form5Maskapai.resx",
+              "RelativeDocumentMoniker": "Form5Maskapai.resx",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form5Maskapai.resx",
+              "RelativeToolTip": "Form5Maskapai.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-26T05:32:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6JadwalPenerbangan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form6JadwalPenerbangan.Designer.cs",
+              "RelativeDocumentMoniker": "Form6JadwalPenerbangan.Designer.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form6JadwalPenerbangan.Designer.cs",
+              "RelativeToolTip": "Form6JadwalPenerbangan.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAArwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:13:52.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form7KodePromo.resx",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.resx",
+              "RelativeDocumentMoniker": "Form7KodePromo.resx",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.resx",
+              "RelativeToolTip": "Form7KodePromo.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-26T04:53:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7KodePromo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.Designer.cs",
+              "RelativeDocumentMoniker": "Form7KodePromo.Designer.cs",
+              "ToolTip": "C:\\Users\\hp 14s-dk0023au\\Documents\\Kelas XI\\C# Desktop Development\\2. Windows Form\\Contoh Soal\\Form7KodePromo.Designer.cs",
+              "RelativeToolTip": "Form7KodePromo.Designer.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAAwO0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:40:03.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
