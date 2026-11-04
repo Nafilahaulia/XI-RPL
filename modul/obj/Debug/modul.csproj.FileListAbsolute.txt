@@ -1,7 +1,0 @@
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\obj\Debug\modul.csproj.AssemblyReference.cache
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\obj\Debug\modul.csproj.CoreCompileInputs.cache
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\bin\Debug\modul.exe.config
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\bin\Debug\modul.exe
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\bin\Debug\modul.pdb
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\obj\Debug\modul.exe
-C:\Users\hp 14s-dk0023au\Documents\Kelas XI\modul\obj\Debug\modul.pdb
